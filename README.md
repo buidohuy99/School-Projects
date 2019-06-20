@@ -11,5 +11,5 @@ Crack a crackme and write a keygen for it
 
 ## MIPS Project (Group project)
 
-Write a time library that can perform basic functionalities like calculate days between dates, day of the week, get the Chinese Zodiac of that year,... using MIPS assembly
+Write a time library that can perform basic functionalities like calculate days between dates, day of the week, get the Chinese Zodiac of that year,... using MIPS assembly  
 
